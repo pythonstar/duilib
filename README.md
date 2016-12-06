@@ -1,2 +1,2 @@
-## duilib
-À´Ô´£º[duilib](https://github.com/duilib/duilib)£¬µ«ÊÇ±¾ÏîÄ¿Ö§³Övs2008£¬±àÒë±È½ÏÇá±ã¡£
+ï»¿## duilib
+æ¥æºï¼š[duilib](https://github.com/duilib/duilib)ï¼Œä½†æ˜¯æœ¬é¡¹ç›®æ”¯æŒvs2008ï¼Œç¼–è¯‘æ¯”è¾ƒè½»ä¾¿ã€‚
